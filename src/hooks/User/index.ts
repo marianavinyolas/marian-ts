@@ -1,0 +1,1 @@
+export { useUserByIdQuery } from './useUserByIdQuery'
